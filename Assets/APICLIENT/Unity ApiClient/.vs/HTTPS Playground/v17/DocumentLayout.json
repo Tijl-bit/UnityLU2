@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avandenb\\Downloads\\Module 1.3\\Unity\\Playground\\HTTPS Playground\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20E64C4F-BDBB-0CE6-935F-D6773FF545F3}|Assembly-CSharp.csproj|c:\\users\\avandenb\\downloads\\module 1.3\\unity\\playground\\https playground\\assets\\code\\apiclient\\modelapiclients\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E64C4F-BDBB-0CE6-935F-D6773FF545F3}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\apiclient\\modelapiclients\\userapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E64C4F-BDBB-0CE6-935F-D6773FF545F3}|Assembly-CSharp.csproj|c:\\users\\avandenb\\downloads\\module 1.3\\unity\\playground\\https playground\\assets\\code\\apiclient\\modelapiclients\\object2dapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E64C4F-BDBB-0CE6-935F-D6773FF545F3}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\apiclient\\modelapiclients\\object2dapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20E64C4F-BDBB-0CE6-935F-D6773FF545F3}|Assembly-CSharp.csproj|c:\\users\\avandenb\\downloads\\module 1.3\\unity\\playground\\https playground\\assets\\code\\apiclient\\modelapiclients\\environment2dapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20E64C4F-BDBB-0CE6-935F-D6773FF545F3}|Assembly-CSharp.csproj|solutionrelative:assets\\code\\apiclient\\modelapiclients\\environment2dapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\avandenb\\Downloads\\Module 1.3\\Unity\\Playground\\HTTPS Playground\\Assets\\Code\\ApiClient\\ModelApiClients\\UserApiClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ApiClient\\ModelApiClients\\UserApiClient.cs",
+              "ToolTip": "C:\\Users\\avandenb\\Downloads\\Module 1.3\\Unity\\Playground\\HTTPS Playground\\Assets\\Code\\ApiClient\\ModelApiClients\\UserApiClient.cs",
+              "RelativeToolTip": "Assets\\Code\\ApiClient\\ModelApiClients\\UserApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:04:41.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Object2DApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\avandenb\\Downloads\\Module 1.3\\Unity\\Playground\\HTTPS Playground\\Assets\\Code\\ApiClient\\ModelApiClients\\Object2DApiClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ApiClient\\ModelApiClients\\Object2DApiClient.cs",
+              "ToolTip": "C:\\Users\\avandenb\\Downloads\\Module 1.3\\Unity\\Playground\\HTTPS Playground\\Assets\\Code\\ApiClient\\ModelApiClients\\Object2DApiClient.cs",
+              "RelativeToolTip": "Assets\\Code\\ApiClient\\ModelApiClients\\Object2DApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:04:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Environment2DApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\avandenb\\Downloads\\Module 1.3\\Unity\\Playground\\HTTPS Playground\\Assets\\Code\\ApiClient\\ModelApiClients\\Environment2DApiClient.cs",
+              "RelativeDocumentMoniker": "Assets\\Code\\ApiClient\\ModelApiClients\\Environment2DApiClient.cs",
+              "ToolTip": "C:\\Users\\avandenb\\Downloads\\Module 1.3\\Unity\\Playground\\HTTPS Playground\\Assets\\Code\\ApiClient\\ModelApiClients\\Environment2DApiClient.cs",
+              "RelativeToolTip": "Assets\\Code\\ApiClient\\ModelApiClients\\Environment2DApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T13:03:49.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
